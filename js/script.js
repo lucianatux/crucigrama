@@ -54,15 +54,15 @@
 					starty: 9
 				},
 				{
-					clue: "16. Adquirir con destreza algo difícil o que no se esperaba.",
-					answer: "cazar",
+					clue: "16. Sentir placer o alegría a causa de algo.",
+					answer: "gozar",
 					position: 16,
 					orientation: "across",
 					startx: 1,
 					starty: 11
 				},
 				{
-					clue: "17. Estructura o lugar de conexión entre lo divino y lo humano.",
+					clue: "17. Estructura consagrada al culto religioso",
 					answer: "altar",
 					position: 17,
 					orientation: "across",
